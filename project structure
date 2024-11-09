@@ -1,0 +1,6 @@
+OnlineBankingSystem/
+├── src/
+│   ├── model/
+│   ├── dao/
+│   ├── util/
+└── Main.java    // Main class for testing purposes
