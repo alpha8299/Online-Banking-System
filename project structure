@@ -1,6 +1,24 @@
 OnlineBankingSystem
-├── src
-│   ├── model
-│   ├── dao
-│   ├── util
-└── Main.java    // Main class for testing purposes
+online-banking/
+│
+├── src/main/
+│   ├── java/
+│   │   └── com.bank/
+│   │       └── controller/   // Servlets or Controllers
+│   │       └── model/        // Java classes for User, Account, etc.
+│   │       └── dao/          // Data Access Object for database operations
+│   │
+│   ├── resources/
+│   │   └── application.properties // Database configurations
+│   │
+│   └── webapp/
+│       ├── WEB-INF/
+│       │   └── views/   // JSP files
+│       │
+│       ├── css/         // Custom CSS
+│       ├── js/          // JavaScript files
+│       ├── img/         // Image assets
+│       └── index.html   // Homepage
+│
+├── pom.xml               // Maven dependencies
+└── build.gradle          // Gradle configuration (if applicable)
