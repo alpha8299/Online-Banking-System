@@ -1,7 +1,7 @@
 # Online-Banking-System
 The system will allow customers to view and manage their bank accounts,  perform transactions, and access various banking services. Administrators will handle user  management, transaction monitoring, and system settings.
 <br>
-Author-GYANENDRA PRATAP SINGH
+Author- UTKARSH KUMAR AND GYANENDRA PRATAP SINGH 
 # Online Banking System
 This project is a simple online banking system with responsive and interactive forms for user login and registration.
 
